@@ -30,7 +30,7 @@
 				"string constant.other.placeholder"
 			],
 			"settings": {
-				"foreground": "#fffafc"
+				"foreground": "#CAE4A3"
 			}
 		},
 		{
@@ -151,9 +151,17 @@
 			}
 		},
 		{
-			"name": "String, Symbols, Inherited Class, Markup Heading",
+			"name": "String",
 			"scope": [
-				"string",
+				"string"
+		],
+			"settings": {
+				"foreground": "#f8d3e6"
+			}
+		},
+		{
+			"name": "Symbols, Inherited Class, Markup Heading",
+			"scope": [
 				"constant.other.symbol",
 				"constant.other.key",
 				"entity.other.inherited-class",
@@ -376,7 +384,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#ebcd95"
+				"foreground": "#F3B1D0"
 			}
 		},
 		{
@@ -385,7 +393,7 @@
 				"source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
 			],
 			"settings": {
-				"foreground": "#f3b1d0"
+				"foreground": "#F3B1D0"
 			}
 		},
 		{
