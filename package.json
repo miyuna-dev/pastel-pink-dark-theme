@@ -2,23 +2,23 @@
     "name": "pastel-pink-dark-theme",
     "displayName": "Pastel-Pink-Dark",
     "description": "The VS Code theme for people who like pastel colors and pink",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "publisher": "Miyuna",
     "repository": {
         "type": "git",
         "url": "https://github.com/miyuna-dev/pastel-pink-dark-theme"
     },
     "keywords": [
-        "dark", 
+        "dark",
         "pink",
-        "pastel", 
+        "pastel",
         "theme",
         "miyuna",
         "miyudev",
-        "pink theme", 
+        "pink theme",
         "dark theme",
-        "pastel pink", 
-        "pastel pink dark", 
+        "pastel pink",
+        "pastel pink dark",
         "pastel pink dark theme"
     ],
     "engines": {
