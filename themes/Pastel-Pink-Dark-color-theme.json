@@ -8,8 +8,14 @@
 		"window.inactiveBorder": "#f3b1d0",
 		"editor.background": "#201f20",
 		"editor.foreground": "#eeffff",
-		"activityBarBadge.background": "#f3b1d0",
-		"sideBarTitle.foreground": "#c96593",
+		"editor.selectionBackground": "#d191aea2",
+		"editor.selectionForeground": "#ffffff",
+		"activityBarBadge.foreground": "#f3b1d0",
+		"activityBarBadge.background": "#FFFFFF",
+		"sideBarTitle.foreground": "#f3b1d0",
+		"statusBar.background": "#f3b1d0",
+		"statusBar.noFolderBackground": "#f3b1d0",
+		"statusBar.debuggingBackground": "#f3b1d0"
 	},
 	"tokenColors": [
 		{
@@ -20,7 +26,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#b48199"
+				"foreground": "#c494ab"
 			}
 		},
 		{
@@ -475,7 +481,7 @@
 				"text.html.markdown markup.inline.raw.markdown punctuation.definition.raw.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#c58fa1"
 			}
 		},
 		{
@@ -541,7 +547,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
-				"foreground": "#65737E"
+				"foreground": "#ca9fb1"
 			}
 		},
 		{
