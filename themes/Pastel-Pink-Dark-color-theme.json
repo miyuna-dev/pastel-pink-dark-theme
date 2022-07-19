@@ -2,7 +2,7 @@
 	"name": "Pastel-Pink-Dark",
 	"colors": {
 		"foreground": "#fcd5e5",
-		"icon.foreground": "#f092db",
+		"icon.foreground": "#f3b1d0",
 		"selection.background": "#a74a4a",
 		"window.activeBorder": "#f3b1d0",
 		"window.inactiveBorder": "#f3b1d0",
