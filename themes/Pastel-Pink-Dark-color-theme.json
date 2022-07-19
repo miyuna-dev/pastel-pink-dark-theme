@@ -1,5 +1,6 @@
 {
 	"name": "Pastel-Pink-Dark",
+	"window.menuBarVisibility": "toggle",
 	"colors": {
 		"foreground": "#fcd5e5",
 		"icon.foreground": "#f3b1d0",
